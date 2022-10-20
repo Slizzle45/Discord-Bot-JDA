@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Slizzle45" options="--add-exports jdk.internal.le/jdk.internal.org.jline.utils=ALL-UNNAMED" />
+      <module name="Slizzle45" options="" />
     </option>
   </component>
 </project>
